@@ -27,3 +27,10 @@ Lukka muudatused koos kirjeldustega kaugreposse
 ```
 gitpush -uf orgin master
 ```
+* git kasutamine PHPstorm keskkonnas
+```
+VCS -> Commit (Ctrl + K)
+```
+* Vali failid, mille sisu on vaja commitida
+*Määra vastav kirjeldus
+*Committi ära -> Commit and push
