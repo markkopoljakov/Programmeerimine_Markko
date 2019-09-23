@@ -1,4 +1,4 @@
-# Programmeerimise Alused
+:# Programmeerimise Alused
 Antud kursuse raames omandatakse baasteadmised programmeerimisest PHP keele alusel.
 ##Ajakava
 *19.09 Tarkvara paigaldamine ja seadistamine
@@ -10,3 +10,20 @@ Antud kursuse raames omandatakse baasteadmised programmeerimisest PHP keele alus
     *  [github.com](github.com) repo loomine
   * PHPstorm Version control settings (git, github)
   * PHPstorm githubi repo kloneerimine arvutisse
+  ### 23.09.2019
+  * git kasutamine
+  ````
+  git init
+````
+Lisa vastav fail jargmisele git poolt
+```
+git add failinimi
+```
+Koosta muudatus filile kirjeldus
+```
+git commit -m "Muudatuse kirjeldus"
+```
+Lukka muudatused koos kirjeldustega kaugreposse
+```
+gitpush -uf orgin master
+```
